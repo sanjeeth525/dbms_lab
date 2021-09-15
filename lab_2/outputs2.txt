@@ -1,0 +1,13 @@
+1
+gamora|34||84|93|79|94|85|F|G|2001-06-19|2018|87
+dwayne|33|86|LOW
+john|58|79|LOW
+dave|27|78|LOW
+randy|56|74|LOW
+kane|11|72|LOW
+tom|50|75|LOW
+carol|7|73|LOW
+wanda|21|60|LOW
+natasha|52|89|LOW
+gamora|34|87|LOW
+jean|46|87|LOW
